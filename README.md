@@ -1,4 +1,4 @@
-# analyses_covid
+# Analyses avec la data COVID
 
 - [Analyse de la mortalité 2020](DRAFT_Analyse%20de%20la%20mortalit%C3%A9%202020.pdf)
 - [Quelle métrique pour suivre la COVID (et calcul de la prévalence)](DRAFT_Quelle%20m%C3%A9trique%20pour%20suivre%20la%20COVID.pdf)
